@@ -41,7 +41,7 @@ _Great job adding a code example to the file :partying_face:_
 
 ### :keyboard: Activity: Add a task list
 
-- [ ] Turn on GitHub Pages
+- [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
 
